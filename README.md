@@ -1,1 +1,1 @@
-The basis of what **L**esion Point C**lo**uds to **S**omatic Mu**t**ations (LLOST) was built upon.# LLOST 
+The basis of what **L**esion Point C**lo**uds to **S**omatic Mu**t**ations (LLOST) was built upon.  This currently has the matlab file to create the point clouds from the The Cancer Imaging Archive (TCIA) database.  An example dataset consisting of 41 samples Lung Adenocarcinoma is included, with each of the sample bar-codes.  The corresponding mutations must be downloaded from The Cancer Genomic Archive (TCGA)
